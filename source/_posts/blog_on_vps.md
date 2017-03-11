@@ -1,6 +1,6 @@
 ---
 title: 购买VPS搭建hexo博客
-date: 2016-03-10
+date: 2017-03-10
 tags: [随笔]
 ---
 
