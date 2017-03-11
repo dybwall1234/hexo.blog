@@ -1,7 +1,7 @@
 ---
 title: 常用IT类英语
 date: 2013-08-15 12:51:28
-tags:[技术]
+tags: [技术]
 ---
 
 delimiter 分隔符
