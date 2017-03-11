@@ -25,7 +25,7 @@ tags: [技术]
 1. 按着官网搭建。
 2. 照着这个wiki改配置，https://github.com/ahonn/hexo-theme-even/wiki
 3. 我比较在意，按时间archive，中文评论，标签，摘要。摘要可以使用https://github.com/chekun/hexo-excerpt
-4. 图片问题，请参照这篇http://www.tuicool.com/articles/umEBVfI，这文章原文已被删，重要的东西，还是搬到自己博客上靠谱。
+4. 图片问题，请参照这篇http://www.tuicool.com/articles/umEBVfI, 这文章原文已被删，重要的东西，还是搬到自己博客上靠谱。
 ## 配置域名
 我使用的是goaddy，购买过程请自己研究，然后在管理域名里，设置转址，稍等几分钟后，就可以用域名访问博客了。
 
