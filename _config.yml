@@ -69,5 +69,7 @@ excerpt_depth: 1
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type:
+  type: git
+  repo:
+      coding: git@git.coding.net:dybwall1234/dybwall1234.git,master
 
