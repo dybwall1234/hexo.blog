@@ -71,5 +71,5 @@ excerpt_depth: 1
 deploy:
   type: git
   repo:
-      coding: git@git.coding.net:dybwall1234/dybwall1234.git,master
+      coding: https://git.dev.tencent.com/duanyb/duanyb.git,master
 
